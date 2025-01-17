@@ -1,6 +1,6 @@
 # A3Matrices
 
-NOTE! This code requires functions from the folding table code (link TBD). After downloading this code download the folding table code and copy the file "ft_main.m" into the folder with this matrix code so that it is loaded when the code is run.
+NOTE! This code requires functions from the folding table code (https://github.com/ellielittle/FoldingTables). After downloading this code download the folding table code and copy the file "ft_main.m" into the folder with this matrix code so that it is loaded when the code is run.
 
 This code calculates the matrices of the matrix representations $\pi_{J,\mathsf{v}}$ described in Section 5 of https://arxiv.org/abs/2212.10781. These matrices are used in Example 7.13 of https://arxiv.org/abs/2406.07004 for the case when $J = \\{1,3\\}$.
 
